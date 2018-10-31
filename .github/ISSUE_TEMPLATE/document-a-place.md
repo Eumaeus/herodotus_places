@@ -6,14 +6,18 @@ about: Document a place in Herodotus
 
 ## Place name as it appears in Herodotus
 
-Name:
+replace-this-text-with-the-name
 
 ## Citation to Herodotus (*e.g.* "1.14.3")
 
-Citation:
+replace-this-text-with-the-citation
 
 ## Pleiades ID (numbers only)
 
-Pleaides ID:
+replace-this-text-with-the-pleiades-id
 
-## Paste GeoJSON String Below:
+## GeoJSON String
+
+replace-this-text-with-the-geojson-string
+
+## END
